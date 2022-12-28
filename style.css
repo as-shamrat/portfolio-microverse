@@ -1,4 +1,5 @@
 #navbar {
+<<<<<<< HEAD
   display: flex;
   justify-content: flex-end;
   position: fixed;
@@ -18,6 +19,13 @@
 }
 #navbar ul li {
   display: inline;
+=======
+  background-color: #b31440;
+  padding: 1.5rem;
+  position: sticky;
+}
+#navbar ul li {
+>>>>>>> navbar-feature
 }
 
 .welcome-section {
